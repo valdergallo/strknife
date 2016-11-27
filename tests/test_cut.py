@@ -1,5 +1,5 @@
 # encoding: utf-8
-from strknifepy import Cut, Knife
+from strknife import Cut, Knife
 
 name = Cut(size=10, value='name')
 address = Cut(size=25, value='address')
