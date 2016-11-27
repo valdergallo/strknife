@@ -1,2 +1,2 @@
-# strknifepy
-strknifepy
+# strknife
+strknife
